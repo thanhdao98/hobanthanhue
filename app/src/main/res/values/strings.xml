@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rgbmems_smartphoneapp</string>
+    <string name="todo">TODO</string>
+    <string name="todo_iropen">TODO iropen</string>
+    <string name="pen">pen</string>
+    <string name="color_pen">color_pen</string>
+    <string name="eraser">eraser</string>
+</resources>

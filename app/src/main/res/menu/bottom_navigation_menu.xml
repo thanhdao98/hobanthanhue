@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_pencil"
+        android:icon="@drawable/ic_pen"
+        android:title="Pencil" />
+
+    <item
+        android:id="@+id/nav_eraser"
+        android:icon="@drawable/ic_eraser"
+        android:title="Eraser" />
+
+
+</menu>
